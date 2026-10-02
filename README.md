@@ -4,7 +4,7 @@ A small, production-style feedback system for aged-care providers: residents and
 feedback, low ratings alert the team on Discord straight away, and staff triage everything from a
 dashboard.
 
-**Live demo:** _[add the Vercel URL after deploying]_ · **Demo staff login:** `staff@feedback-inbox.test`
+**Live demo:** https://feedback-inbox-rho.vercel.app · **Demo staff login:** `staff@feedback-inbox.test`
 / `inbox-demo-2026`
 
 It's a slice of the kind of product I work on day to day, rebuilt in **Next.js 16, TypeScript,
